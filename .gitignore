@@ -1,0 +1,6 @@
+node_modules/ 
+test-results/ 
+playwright-report/ 
+.DS_Store 
+debug-page.png 
+debug-output.png 
